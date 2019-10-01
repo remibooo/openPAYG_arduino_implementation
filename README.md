@@ -90,6 +90,7 @@ The following data is stored in the NVRAM of the RTC module:
     * ‘byte colPins[COLS] = {5, 4, 3}; //connect to the column pinouts of the keypad’
 
 
+- - - - 
 # Specs factory controller
 
 ## Hardware
@@ -113,7 +114,7 @@ The following data is stored in the NVRAM of the RTC module:
 * Serial number can be less than 9 digits
 
 
-
+- - - - 
 # Specs initialization programs
 
 ## test_EEPROM
